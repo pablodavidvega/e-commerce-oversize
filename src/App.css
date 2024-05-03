@@ -1,0 +1,39 @@
+* {
+  background-color: #1B2631;
+}
+
+#root {
+  max-width: 100%;
+  padding: 40px 80px;
+}
+
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  place-items: center;
+  justify-content: space-between;
+}
+
+.navbar,
+p {
+  color: #fff;
+}
+
+.list-products {
+  gap: 40px;
+  display: flex;
+}
+
+button:hover {
+  background-color: #787b81;
+  color: #fff;
+}
+
+.cart-widget svg {
+  width: 40px;
+  height: auto;
+}
+
+.cart-widget:hover {
+  color: #20a539;
+}
