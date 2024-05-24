@@ -1,0 +1,14 @@
+.container-item-detail {
+    display: flex;
+    padding: 40px 80px;
+    gap: 40px;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 0px;
+    background-color: #fff;
+    margin-top: 40px;
+}
+
+.container-item-detail img {
+    width: 300px;
+}

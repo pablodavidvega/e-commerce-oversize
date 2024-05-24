@@ -1,0 +1,15 @@
+.count {
+    color: #000;
+    font-weight: bold;
+    padding: 0 10px;
+}
+
+.count-countainer {
+    display: flex;
+    justify-content: center;
+    place-items: center;
+}
+
+.count-countainer button {
+    background-color: #c1bcb9;
+}

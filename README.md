@@ -1,3 +1,5 @@
+Antes de iniciar el proyecto con npm run dev, se debe hacer un upgrade de node con el comando nvm use 16
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
